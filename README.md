@@ -1,4 +1,5 @@
 # vuetify-playground
+A base Vue project already pre-loaded with Vuetify.
 
 ## Project setup
 ```
