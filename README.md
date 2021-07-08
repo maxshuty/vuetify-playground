@@ -1,5 +1,5 @@
 # vuetify-playground
-A base Vue project already pre-loaded with Vuetify.
+A base Vue project already pre-loaded with Vuetify. Great if you find yourself creating lots of POC's.
 
 ## Project setup
 ```
